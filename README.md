@@ -1,0 +1,3 @@
+# Global, regional, and national disease burden estimates of acute lower respiratory infections due to respiratory syncytial virus in young children in 2019: a systematic analysis
+This repo contains additional detailed techincal results from individual meta-analyses not included in the manuscript or appendix of the manuscript "Global, regional, and national disease burden estimates of acute lower respiratory infections due to respiratory syncytial virus in young children in 2019: a systematic analysis".  
+The names of the folders and their contents should be self-explanatory, so are the column names of each dataset.
